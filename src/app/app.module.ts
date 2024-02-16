@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { HeroesComponent } from './heroes/heroes.component';
 import { FormsModule } from '@angular/forms';
 
-import { NgFor } from '@angular/common';
 
 @NgModule({
   declarations: [
